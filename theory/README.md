@@ -27,7 +27,6 @@
 * [`vertical-align`](./css/vertical-align.md)
 * [Flexbox](./css/flexbox.md)
 * [Работа с изображениями](./css/images.md)
-* [SVG](./css/svg.md) [в разработке]
 * [Анимация через ключевые кадры](./css/animation-keyframes.md)
 * [Адаптивность (Медиа-запросы)](./css/media.md)
 * [БЭМ (BEM)](./css/bem.md)
