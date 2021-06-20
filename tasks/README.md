@@ -2,9 +2,7 @@
 
 # Список задач
 
-[Главная](https://github.com/dollaween/junior-roadmap/)
-|
-[Карта](/roadmap/README.md)
+[Главная](https://github.com/M0n0mah/css)
 |
 [Теория](/theory/README.md)
 |
