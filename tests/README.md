@@ -14,7 +14,7 @@
 
 ---
 
-* [Тесты на знание базы](./css/beginner.md)
+* [Тесты на знание базы](./beginner.md)
 * [Flow, Flexbox, Grid](./css/flow.md)
 * [Псевдоклассы и псевдоэлементы](./css/pseudo.md)
 
