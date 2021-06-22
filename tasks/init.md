@@ -23,7 +23,7 @@
 
 ![image](https://user-images.githubusercontent.com/48933270/122679095-3071fe80-d1f2-11eb-994d-b2c48dd95686.png)
 
-Макет: [Figma](https://www.figma.com/file/PnnS2RDlKkxS20vZGoKTRy/Tasks?node-id=2%3A5)
+
 
 <details><summary><b>Решение Flow</b></summary>
 <p>
@@ -94,7 +94,6 @@ li {
 
 ![image](https://user-images.githubusercontent.com/48933270/122679706-91023b00-d1f4-11eb-8947-b87a118799ee.png)
 
-Макет: [Figma](https://www.figma.com/file/PnnS2RDlKkxS20vZGoKTRy/Tasks?node-id=2%3A6)
 
 
 <details><summary><b>Решение Flow</b></summary>
@@ -200,7 +199,6 @@ li:last-child::after {
 
 ![image](https://user-images.githubusercontent.com/48933270/122681278-2523d080-d1fc-11eb-9849-ec7210136af7.png)
 
-Макет: [Figma](https://www.figma.com/file/PnnS2RDlKkxS20vZGoKTRy/Tasks?node-id=2%3A7)
 
 <details><summary><b>Решение Flow</b></summary>
 <p>
@@ -324,7 +322,6 @@ svg {
 
 ![image](https://user-images.githubusercontent.com/48933270/122694203-51177400-d245-11eb-841d-858128c2491b.png)
 
-Макет: [Figma](https://www.figma.com/file/PnnS2RDlKkxS20vZGoKTRy/Tasks?node-id=2%3A8)
 
 <details><summary><b>Решение Flow</b></summary>
 <p>
@@ -454,7 +451,6 @@ p {
 
 ![image](https://user-images.githubusercontent.com/48933270/122694484-237efa80-d246-11eb-870c-1fb6a942e562.png)
 
-Макет: [Figma](https://www.figma.com/file/PnnS2RDlKkxS20vZGoKTRy/Tasks?node-id=2%3A9)
 
 <details><summary><b>Решение Flow</b></summary>
 <p>
@@ -564,8 +560,6 @@ body {
 ##### 6. Расположите элементы так, как показано на скриншоте
 
 ![image](https://user-images.githubusercontent.com/48933270/122694894-8de46a80-d247-11eb-890b-8dafc8e740e6.png)
-
-Макет: [Figma](https://www.figma.com/file/PnnS2RDlKkxS20vZGoKTRy/Tasks?node-id=2%3A10)
 
 <details><summary><b>Решение Flow</b></summary>
 <p>
@@ -714,8 +708,6 @@ p {
 
 ![image](https://user-images.githubusercontent.com/48933270/122695538-4e1e8280-d249-11eb-82d0-7c4b8c0c51c2.png)
 
-Макет: [Figma](https://www.figma.com/file/PnnS2RDlKkxS20vZGoKTRy/Tasks?node-id=2%3A11)
-
 <details><summary><b>Решение Flexbox</b></summary>
 <p>
 
@@ -799,7 +791,6 @@ li {
 
 ![image](https://user-images.githubusercontent.com/48933270/122696521-ea498900-d24b-11eb-8000-1b7c09aa29da.png)
 
-Макет: [Figma](https://www.figma.com/file/PnnS2RDlKkxS20vZGoKTRy/Tasks?node-id=2%3A12)
 
 <details><summary><b>Решение Flow</b></summary>
 <p>
@@ -948,7 +939,6 @@ li {
 
 ![image](https://user-images.githubusercontent.com/48933270/122789251-c7f15300-d2bf-11eb-98a6-30ff2a83c9fd.png)
 
-Макет: [Figma](https://www.figma.com/file/PnnS2RDlKkxS20vZGoKTRy/Tasks?node-id=2%3A13)
 
 <details><summary><b>Решение Flexbox</b></summary>
 <p>
@@ -1022,7 +1012,6 @@ p {
 
 ![image](https://user-images.githubusercontent.com/48933270/122791608-0d168480-d2c2-11eb-9656-f496de7de2d3.png)
 
-Макет: [Figma](https://www.figma.com/file/PnnS2RDlKkxS20vZGoKTRy/Tasks?node-id=152%3A137)
 
 <details><summary><b>Решение Flexbox</b></summary>
 <p>
@@ -1111,7 +1100,6 @@ p {
 
 ![image](https://user-images.githubusercontent.com/48933270/122801659-13f6c480-d2cd-11eb-819f-643961b06099.png)
 
-Макет: [Figma](https://www.figma.com/file/PnnS2RDlKkxS20vZGoKTRy/Tasks?node-id=2%3A16)
 
 <details><summary><b>Решение</b></summary>
 <p>
@@ -1208,7 +1196,6 @@ p {
 
 ![image](https://user-images.githubusercontent.com/48933270/122800287-6afb9a00-d2cb-11eb-9ced-a99ed5658555.png)
 
-Макет: [Figma](https://www.figma.com/file/PnnS2RDlKkxS20vZGoKTRy/Tasks?node-id=2%3A15)
 
 <details><summary><b>Решение</b></summary>
 <p>
